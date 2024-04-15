@@ -1,0 +1,24 @@
+Title: Enhancing Collective Knowledge: How to Submit a Pull Request to "What Happens When"
+
+Link: https://github.com/alex/what-happens-when#the-g-key-is-pressed
+
+Introduction:
+The internet's beauty lies in its collaborative nature, where individuals come together to share knowledge, solve problems, and push boundaries of innovation. One such endeavor is the "What Happens When" repository on GitHub, where contributors compile answers to the question: what happens when a specific action is performed? In this blog post, we'll explore how you can contribute to this collaborative effort by submitting a meaningful pull request.
+
+1. Understanding the Purpose:
+Before diving into the pull request process, it's crucial to grasp the purpose of the "What Happens When" repository. It aims to provide detailed explanations of various actions or events, from pressing a key on a keyboard to launching a rocket. By contributing, you're sharing your knowledge and enriching a valuable resource for developers worldwide.
+
+2. Identifying Meaningful Contributions:
+Focus on bringing value to the repository. Aim to add insights, clarify explanations, update information, or address gaps. Your contribution should improve the quality and depth of the content.
+
+3. Crafting Your Pull Request:
+Fork the repository, create a new branch, and make necessary modifications. Provide descriptive commit messages. Review your changes to align with guidelines before submitting.
+
+4. Submitting Your Contribution:
+Create a pull request targeting the main branch. Provide an overview of your changes and be open to feedback from maintainers and contributors.
+
+5. Celebrating Collaboration:
+Submitting a pull request is a testament to collaboration and knowledge sharing. Your contribution helps build a resource that benefits the community. Take pride in shaping a valuable resource that evolves over time.
+
+Conclusion:
+Collaborative projects like "What Happens When" illuminate collective knowledge. By contributing meaningfully, you enrich a valuable resource and foster a culture of collaboration and learning. Dive into the code, let your voice be heard, and together, we can enhance a repository that reveals the inner workings of the world.

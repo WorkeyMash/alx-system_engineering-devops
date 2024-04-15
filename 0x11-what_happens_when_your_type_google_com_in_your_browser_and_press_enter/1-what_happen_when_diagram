@@ -1,0 +1,32 @@
+Title: Flow of a Web Request for https://www.google.com
+
+Diagram Description:
+
+1. DNS Resolution:
+   - Step 1: Browser sends a DNS request for www.google.com.
+   - Step 2: DNS server provides the IP address of Google's server in response.
+
+2. TCP/IP Connection:
+   - Step 3: Browser establishes a TCP connection with the server IP on port 443 (HTTPS).
+
+3. Encryption:
+   - Step 4: HTTPS encryption is initiated between the browser and the server.
+
+4. Firewall:
+   - Step 5: Traffic passes through a firewall, which examines and filters incoming and outgoing data packets.
+
+5. Load Balancer:
+   - Step 6: Traffic is distributed among multiple servers through a load balancer.
+
+6. Web Server:
+   - Step 7: The request reaches the web server, which serves static assets and forwards dynamic requests to the application server.
+
+7. Application Server:
+   - Step 8: The application server generates dynamic content (e.g., search results) based on the user's request.
+
+8. Database:
+   - Step 9: The application server queries the database to retrieve the necessary data.
+
+9. Response:
+   - Step 10: The response follows the same path back, reaching the browser.
+   - Step 11: The browser displays the received data, rendering the Google homepage.
